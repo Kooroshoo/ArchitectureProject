@@ -9,3 +9,9 @@ Types of interaction:
 <li>Area B: The area rises up to 90cm.</li>
 <li>Area C: The area gets pressed down, play's music, and the clouds rotate fast.</li>
 </ul>
+
+Game rules:
+ - The player is free to move on the platform (please use the standard 3rd-person player provided by UE4);
+ - each of the 3 circular areas is interactive;
+ - each interaction is activated with the presence of the player above the area itself;
+ - each interaction triggers an event.
